@@ -1,13 +1,20 @@
 {
-    "urls": [{
+    "urls": [
+        {
             "name": "🌞潇洒线路🌞",
-            "url": "https://d.kstore.dev/download/9172/xs.json"
-        }, {
+            "url": "https://gitee.com/vocaltv/xs/raw/main/xs.json"
+        }, 
+        {
             "name": "🌞星辰线路🌞",
             "url": "https://fmbox.cc/"
-        }, {
+        }, 
+        {
             "name": "🌞蜗牛线路🌞",
             "url": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/api.json"
+        }, 
+        {
+            "name": "🌞虎斑线路🌞",
+            "url": "https://gitee.com/vocaltv/xs/raw/main/hb.json"
         }
     ]
 }
